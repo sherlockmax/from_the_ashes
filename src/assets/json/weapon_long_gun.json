@@ -1,0 +1,182 @@
+[
+  {
+    "name": "反擊者",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "repulsor",
+    "hasMod": true,
+    "modInfo": {
+      "name": "驅逐",
+      "descKey": "repulsor"
+    }
+  },
+  {
+    "name": "突擊步槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "assault_rifle",
+    "hasMod": false
+  },
+  {
+    "name": "射線步槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "beam_rifle",
+    "hasMod": false
+  },
+  {
+    "name": "芝加哥打字機",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "chicago_typewriter",
+    "hasMod": false
+  },
+  {
+    "name": "弩",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "crossbow",
+    "hasMod": false
+  },
+  {
+    "name": "毀滅者",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "devastator",
+    "hasMod": true,
+    "modInfo": {
+      "name": "穿刺者",
+      "descKey": "devastator"
+    }
+  },
+  {
+    "name": "風暴之眼",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "eye_of_the_storm",
+    "hasMod": true,
+    "modInfo": {
+      "name": "靜電射擊場",
+      "descKey": "eye_of_the_storm"
+    }
+  },
+  {
+    "name": "獵槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "hunting_rifle",
+    "hasMod": false
+  },
+  {
+    "name": "粒子加速器",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "particle_accelerator",
+    "hasMod": true,
+    "modInfo": {
+      "name": "重力核心",
+      "descKey": "particle_accelerator"
+    }
+  },
+  {
+    "name": "廢墟",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "ruin",
+    "hasMod": true,
+    "modInfo": {
+      "name": "不滅者",
+      "descKey": "ruin"
+    }
+  },
+  {
+    "name": "霰彈槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "shotgun",
+    "hasMod": false
+  },
+  {
+    "name": "狙擊步槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "sniper_rifle",
+    "hasMod": false
+  },
+  {
+    "name": "孢子噴射",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "sporebloom",
+    "hasMod": true,
+    "modInfo": {
+      "name": "孢子射擊",
+      "descKey": "sporebloom"
+    }
+  }
+]

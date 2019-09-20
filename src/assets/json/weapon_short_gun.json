@@ -1,0 +1,114 @@
+[
+  {
+    "name": "馬格南左輪手槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "magnum_revolver",
+    "hasMod": false
+  },
+  {
+    "name": "衝鋒槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "submachine_gun",
+    "hasMod": false
+  },
+  {
+    "name": "狩獵手槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "hunting_pistol",
+    "hasMod": false
+  },
+  {
+    "name": "玷汙者",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "defiler",
+    "hasMod": true,
+    "modInfo": {
+      "name": "輻射齊發",
+      "descKey": "defiler"
+    }
+  },
+  {
+    "name": "連發手槍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "repeater_pistol",
+    "hasMod": false
+  },
+  {
+    "name": "噴火者",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "spitfire",
+    "hasMod": true,
+    "modInfo": {
+      "name": "火焰噴射器",
+      "descKey": "spitfire"
+    }
+  },
+  {
+    "name": "叢林神之詛咒",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "curse_of_the_jungle_god",
+    "hasMod": true,
+    "modInfo": {
+      "name": "觸手射擊",
+      "descKey": "curse_of_the_jungle_god"
+    }
+  },
+  {
+    "name": "蟲巢砲",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "hive_cannon",
+    "hasMod": true,
+    "modInfo": {
+      "name": "蟲巢射擊",
+      "descKey": "hive_cannon"
+    }
+  }
+]
