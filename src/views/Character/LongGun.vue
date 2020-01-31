@@ -1,7 +1,7 @@
 <template lang="pug">
-.row
-  .col-8.p-2
-    ul.list-group.item-list.pr-2
+.row.h-100
+  .col-8.p-2.h-100
+    ul.list-group.item-list.pr-2.h-100-scroll
       li.list-group-item(v-for="(gun, i) in items" :class="{'mb-2': i < items.length-1, 'item-active': i == selectedItemIndex}" @click="setItem(i)")
         .row
           .gun-name {{ gun.name }}
@@ -10,7 +10,7 @@
             img(v-else :src="require(`@/assets/img/weapons_mod/null_mod.png`)")
           .col.text-center
             img(:src="require(`@/assets/img/weapons/long_gun/${gun.img}.png`)")
-  .col.p-0.pr-2.pt-2
+  .col.p-0.pr-2.pt-2.h-100-scroll
     ul.list-group
       li.list-group-item.text-center.mb-2
         h5.mb-0 {{ selectedItem.name }} 
@@ -156,59 +156,3 @@ export default {
   }
 }
 </script>
-
-<style lang="scss">
-ul.item-list {
-  height: 740px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-}
-
-ul.item-list li,
-li {
-  border-width: 2px;
-  border-radius: 0.25rem !important;
-}
-
-ul.item-list li:hover,
-ul.item-list li.item-active {
-  border-color: white;
-}
-
-ul.item-list li img {
-  opacity: 0.2;
-  height: 100px;
-}
-
-ul.item-list li:hover img,
-ul.item-list li.item-active img {
-  opacity: 1;
-}
-
-.text-number {
-  font-weight: bold;
-  margin-left: 4px;
-  margin-right: 4px;
-  color: white;
-}
-
-.mod-info {
-  height: 178px;
-}
-
-.gun-name {
-  position: absolute;
-  top: 15px;
-  left: 15px;
-}
-
-.gun-mod {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-}
-
-.gun-info-mod img {
-  height: 120px;
-}
-</style>

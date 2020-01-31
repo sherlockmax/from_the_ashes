@@ -1,0 +1,202 @@
+[
+  {
+    "name": "風暴之聲",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "voice_of_the_tempest",
+    "hasMod": true,
+    "modInfo": {
+      "name": "閃電電擊",
+      "descKey": "voice_of_the_tempest"
+    }
+  },
+  {
+    "name": "失落魚叉",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "the_lost_harpoon",
+    "hasMod": true,
+    "modInfo": {
+      "name": "強力打擊",
+      "descKey": "the_lost_harpoon"
+    }
+  },
+  {
+    "name": "滅世",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "world_breaker",
+    "hasMod": true,
+    "modInfo": {
+      "name": "強力爆發",
+      "descKey": "world_breaker"
+    }
+  },
+  {
+    "name": "石化大錘",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "petrified_maul",
+    "hasMod": true,
+    "modInfo": {
+      "name": "沉重打擊",
+      "descKey": "petrified_maul"
+    }
+  },
+  {
+    "name": "長矛",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "spear",
+    "hasMod": false
+  },
+  {
+    "name": "守護生物之斧",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "cuardian_axe",
+    "hasMod": true,
+    "modInfo": {
+      "name": "精神引擎",
+      "descKey": "cuardian_axe"
+    }
+  },
+  {
+    "name": "廢鐵手斧",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "scrap_hatchet",
+    "hasMod": false
+  },
+  {
+    "name": "廢鐵錘",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "scrap_hammer",
+    "hasMod": false
+  },
+  {
+    "name": "荒原行者流行錘",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "wastelander_flail",
+    "hasMod": false
+  },
+  {
+    "name": "陰燃",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "smolder",
+    "hasMod": true,
+    "modInfo": {
+      "name": "熾烈",
+      "descKey": "smolder"
+    }
+  },
+  {
+    "name": "劈裂者",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "riven",
+    "hasMod": true,
+    "modInfo": {
+      "name": "生命吸取",
+      "descKey": "riven"
+    }
+  },
+  {
+    "name": "廢鐵長劍",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "scrap_sword",
+    "hasMod": false
+  },
+  {
+    "name": "叢林神之傷痕",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "scar_of_the_jungle_god",
+    "hasMod": true,
+    "modInfo": {
+      "name": "鋒鋭",
+      "descKey": "scar_of_the_jungle_god"
+    }
+  },
+  {
+    "name": "鐮刀",
+    "damage": 1,
+    "rps": 1,
+    "magazine": 1,
+    "accuracy": 1,
+    "idealRange": 18,
+    "maxAmmo": 70,
+    "criticalHitChance": 10,
+    "img": "scythe",
+    "hasMod": false
+  }
+]

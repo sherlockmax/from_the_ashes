@@ -1,5 +1,5 @@
 <template lang="pug">
-    .d-flex.justify-content-center.align-items-center.flex-column(style="height: 100%; font-size: 1.5em;")
+    .d-flex.justify-content-center.align-items-center.flex-column.h-100
       img.coming-soon(src="@/assets/img/ComingSoon.png")
       .text-light 本頁面尚在建置中
 </template>
